@@ -1,5 +1,7 @@
 body           {
-  background-color: #e7d9cd;}
+  background-color: #e7d9cd;
+  display: flex;
+  align-items:center;}
 
 @font-face    {
   font-family: customFonts;
