@@ -1,16 +1,21 @@
-.body       {
+body           {
   background-color: #e7d9cd;}
+
 @font-face    {
   font-family: customFonts;
-  src: url(Sakura.ttf);}
-.heading          {
+  src: url(Sakura.ttf);
+}
+heading       {
   color: brown;
   margin: 50px;
   font-family: customFonts;
-  font-size: 500%;}
-.p            {
+  font-size: 500%;
+}
+p            {
   color: brown;
   font-family: "Gill Sans", sans-serif;
-  float: right;}
- .image        {
-   float: left;}
+  float: right;
+}
+ image        {
+   float: left;
+ }
