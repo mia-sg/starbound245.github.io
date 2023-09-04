@@ -3,7 +3,7 @@
 @font-face    {
   font-family: customFonts;
   src: url(Sakura.ttf);}
-.h1          {
+.heading          {
   color: brown;
   margin: 50px;
   font-family: customFonts;
