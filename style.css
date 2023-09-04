@@ -5,7 +5,7 @@ body           {
   font-family: customFonts;
   src: url(Sakura.ttf);
 }
-heading       {
+h1       {
   color: brown;
   margin: 50px;
   font-family: customFonts;
