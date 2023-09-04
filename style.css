@@ -11,16 +11,16 @@ h1       {
   font-family: customFonts;
   font-size: 500%;
 }
-p            {
+.aligned .p            {
   color: brown;
   font-family: "Gill Sans", sans-serif;
   font-size: 15px;
   padding: 10px;
 }
-image        {
+.aligned .image        {
    margin-left: 50px;
  }
-aligned {
+.aligned {
             display: flex;
             align-items: center;
         }
