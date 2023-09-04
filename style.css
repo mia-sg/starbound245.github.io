@@ -1,12 +1,10 @@
 body           {
   background-color: #e7d9cd;
-}
-  
+} 
 main          }
   display: flex;
   align-items:center;
 }
-
 @font-face    {
   font-family: customFonts;
   src: url(Sakura.ttf);
